@@ -1,5 +1,6 @@
 # student_admission_neuralnet
 predict student admission
+
 In this code, we predict student admissions to graduate school at UCLA based on three pieces of data:
 - GRE Scores (Test)
 - GPA Scores (Grades)
